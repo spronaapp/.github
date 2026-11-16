@@ -1,8 +1,11 @@
 <p align="center">
-  <a href="https://sprona.app"><img src="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona.svg" width="96" height="96" alt="sprona"></a>
+  <a href="https://sprona.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona-wordmark-dark.svg">
+      <img src="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona-wordmark-light.svg" height="64" alt="sprona">
+    </picture>
+  </a>
 </p>
-
-<h1 align="center">sprona</h1>
 
 <p align="center">
   <b>The training log for strength and hybrid athletes.</b><br>
