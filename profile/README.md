@@ -2,7 +2,7 @@
   <a href="https://sprona.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona-wordmark-dark.svg">
-      <img src="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona-wordmark-light.svg" height="64" alt="sprona">
+      <img src="https://raw.githubusercontent.com/spronaapp/.github/main/profile/sprona-wordmark-light.svg" height="64" alt="Sprona">
     </picture>
   </a>
 </p>
